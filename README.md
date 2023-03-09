@@ -1,6 +1,6 @@
 # Cazier92
 
-![photo of dog and owner](https://github.com/Cazier92/portfolio-react/src/assets/CE13BA46-71B4-4CDE-841F-EA906B9B4B13_1_105_c.jpeg)
+![photo of dog and owner](https://imgur.com/a/xFEsdNw)
 
 Hello! My name is Bryce Cazier, welcome to my GitHub. I'm a Fullstack Developer, experienced in HTML, CSS, JavaScript, Node.js, Express, Mongoose, MongoDB, Sequelize, PostgreSQL, React, and TypeScript. In my Projects section, you'll find links to various apps I've developed. 
 
