@@ -16,4 +16,4 @@ I also paint with watercolor in my pastime, a hobby I started several years ago.
 
 Reach Out:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryce-cazier/) [bcazier92@gmail.com](mailto:bcazier92@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryce-cazier/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bcazier92@gmail.com)
