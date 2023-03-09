@@ -1,6 +1,6 @@
 # Cazier92
 <p align='center'>
-![photo of dog and owner](./images/CE13BA46-71B4-4CDE-841F-EA906B9B4B13_1_105_c.jpeg)
+<img src='./images/CE13BA46-71B4-4CDE-841F-EA906B9B4B13_1_105_c.jpeg' alt='photo of dog and owner-Bryce Cazier'>
 <p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cazier92&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cazier92&langs_count=7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
