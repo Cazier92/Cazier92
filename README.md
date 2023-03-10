@@ -24,7 +24,25 @@ I also paint with watercolor in my pastime, a hobby I started several years ago.
 
 <h2 align='center'>Reach Out:</h2>
 
-<p align='center'>
+<div align='center'>
+  <a href='https://www.linkedin.com/in/bryce-cazier/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)'></a>
+  <a href='mailto:bcazier92@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
+  <a href='https://bryce-cazier.netlify.app/'><img src='https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white'></a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryce-cazier/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bcazier92@gmail.com) [![Portfolio](https://badgen.net/badge/My/Portfolio/cyan)](https://bryce-cazier.netlify.app/)
-</p>
+<h2 align='center'>Proficiencies:</h2>
+
+<div align='center'>
+  <a href='#'><img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'></a>
+  <a href='#'><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'></a>
+  <a href='#'><img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'></a>
+  <a href='#'><img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'></a>
+  <a href='#'><img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'></a>
+  <a href='#'><img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'></a>
+  <a href='#'><img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'></a>
+  <a href='#'><img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'></a>
+  <a href='#'><img src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'></a>
+  <a href='#'><img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white'></a>
+  <a href='#'><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)'></a>
+  <a href='#'><img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'></a>
+</div>
