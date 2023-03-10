@@ -1,16 +1,15 @@
-<p align='center'>
-  <h1>Cazier92</h1>
-</p>
+<h1 align='center'>Cazier92</h1>
+
 
 <p align='center'>
   <img src='./images/CE13BA46-71B4-4CDE-841F-EA906B9B4B13_1_105_c.jpeg' alt='photo of dog and owner-Bryce Cazier'>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cazier92&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cazier92&langs_count=7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-<p align='center'>
-  <h2>About Me:</h2>
-</p>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cazier92&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cazier92&langs_count=7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h2 align='center'>About Me:</h2>
 
 Hello! My name is Bryce Cazier, welcome to my GitHub. I'm a Fullstack Developer, experienced in HTML, CSS, JavaScript, Node.js, Express, Mongoose, MongoDB, Sequelize, PostgreSQL, React, and TypeScript. In my Projects section, you'll find links to various apps I've developed. 
 
@@ -23,6 +22,7 @@ I also paint with watercolor in my pastime, a hobby I started several years ago.
 <p align='center'>
   <h2>Reach Out:</h2>
 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryce-cazier/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bcazier92@gmail.com)
 
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryce-cazier/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bcazier92@gmail.com)
