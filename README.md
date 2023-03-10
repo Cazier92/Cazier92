@@ -6,7 +6,10 @@
 
 </p>
 
+<p align='center'>
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cazier92&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cazier92&langs_count=7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 <h2 align='center'>About Me:</h2>
@@ -19,10 +22,9 @@ My dog, Kaia is the most important thing in the world to me. She goes everywhere
 
 I also paint with watercolor in my pastime, a hobby I started several years ago. My creativity has had a major impact on the way I approach problems. In watercolor, you need to think carefully about the big picture. Unlike oil paints and acrylics, you can't just paint over a mistake. Things show through! And overworking the paint will quickly muddy the paint and give a sub-par result. I need to be precise and efficient with the way I paint, giving each brush stroke meaning. In the same way, I like to think about the big picture with my code. What am I trying to achieve? What's the end result? How can I get from Point A to Point B in the fewest number of steps, and the fastest way, to make sure things run smoothly and efficiently and I keep my code dry.
 
+<h2 align='center'>Reach Out:</h2>
+
 <p align='center'>
-  <h2>Reach Out:</h2>
 
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryce-cazier/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bcazier92@gmail.com) [![Portfolio](https://badgen.net/badge/My/Portfolio/cyan)](https://bryce-cazier.netlify.app/)
 </p>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryce-cazier/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bcazier92@gmail.com)
